@@ -1,16 +1,6 @@
-# todo_app
+Flutter TODO App
 
-A new Flutter project.
+A clean and simple TODO application built with Flutter, designed to manage daily tasks efficiently with a minimal and user-friendly interface.
+This project demonstrates Flutter fundamentals, state handling, and release-ready builds for Android & Web.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can download and install the latest release APK from GitHub Releases:  https://github.com/Deepak-0616/todo_flutter_app/releases
