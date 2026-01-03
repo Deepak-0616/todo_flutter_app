@@ -1,4 +1,4 @@
-#Flutter TODO App
+# Flutter TODO App
 
 A clean and simple TODO application built with Flutter, designed to manage daily tasks efficiently with a minimal and user-friendly interface.
 This project demonstrates Flutter fundamentals, state handling, and release-ready builds for Android & Web.
